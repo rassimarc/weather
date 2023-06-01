@@ -1,0 +1,6 @@
+flask
+public-ip
+geopy
+dropbox
+pandas
+python-dotenv
